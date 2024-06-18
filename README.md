@@ -19,6 +19,8 @@ Envio de resumenes a whatsapp [ir](aplicacion).
 
 ![Aplicacion](resumen_whatsapp.png)
 
+Tablas de resumenes de videos y resumenes generales de todos los videos por dia (Map reduce). [ver tablas]()
+
 
 ## [Ingesta_datos](ingesta_datos)
 
@@ -42,7 +44,7 @@ Exploracion de modelos de ML para hacer agrupacion de embeddings con el objetivo
 
 ## [Procesamiento_datos_almacenamiento_y_recuperacion_texto](Procesamiento_datos_almacenamiento_y_recuperacion_texto)
 
-Procesamiento de documentos, generacion de chunks, embbedings y almacenamiento en base de datos vectorial. [ver dataset](https://huggingface.co/datasets/AndresR2909/youtube_transcripcions_embeddigns)
+Procesamiento de documentos, generacion de chunks, embbedings y almacenamiento en base de datos vectorial. [ver dataset](https://huggingface.co/datasets/AndresR2909/youtube_transcripcions_vector_data_base)
 
 ![Procesamiento de Datos, Almacenamiento de Texto](proyecto_1_arquiectura_vdb.jpg)
 
