@@ -11,16 +11,16 @@ Proyecto integrador primer semestre maestría en ciencia de datos
 - [aplicacion](#aplicacion)
 - [ingesta_datos](#ingesta_datos)
 - [modelamiento](#modelamiento)
-- [procesamiento_datos_almacenamiento_recuperacion_texto](#procesamiento_datos_almacenamiento_recuperacion_texto)
+- [Procesamiento_datos_almacenamiento_y_recuperacion_texto](#Procesamiento_datos_almacenamiento_y_recuperacion_texto)
 
-## aplicacion
+## [aplicacion](aplicacion)
 
-Envio de resumenes a whatsapp.
+Envio de resumenes a whatsapp [ir](aplicacion).
 
 ![Aplicacion](resumen_whatsapp.png)
 
 
-## Ingesta_datos
+## [Ingesta_datos](ingesta_datos)
 
 Ingesta de transcripciones y metadata de videos de canales de youtube (Cada 3 horas)
 
@@ -29,7 +29,7 @@ Ingesta de transcripciones y metadata de videos de canales de youtube (Cada 3 ho
 ![Ingesta de Datos_2](ingesta_2.png)
 
 
-## Modelamiento
+## [Modelamiento](modelamiento)
 
 Exploracion de modelos de ML para hacer agrupacion de embeddings con el objetivo agregar metadata de topicos y filtar textos (chunks) no relevantes para el almacenamiento en base de datos vectorial.
 
@@ -40,7 +40,7 @@ Exploracion de modelos de ML para hacer agrupacion de embeddings con el objetivo
 * Clustering: Kmeans, Dbscan, Hdbscan
 
 
-## Procesamiento datos, almacenamiento Y recuperacion_texto
+## [Procesamiento_datos_almacenamiento_y_recuperacion_texto](Procesamiento_datos_almacenamiento_y_recuperacion_texto)
 
 Procesamiento de documentos, generacion de chunks, embbedings y almacenamiento en base de datos vectorial.
 
