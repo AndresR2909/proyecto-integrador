@@ -22,7 +22,7 @@ Envio de resumenes a whatsapp [ir](aplicacion).
 
 ## [Ingesta_datos](ingesta_datos)
 
-Ingesta de transcripciones y metadata de videos de canales de youtube (Cada 3 horas). [Ver dataset]([AndresR2909/youtube_transcriptions_ingest](https://huggingface.co/datasets/AndresR2909/youtube_transcriptions_ingest))
+Ingesta de transcripciones y metadata de videos de canales de youtube (Cada 3 horas). [Ver dataset](https://huggingface.co/datasets/AndresR2909/youtube_transcriptions_ingest)
 
 ![Ingesta de Datos](ingesta_1.png)
 
@@ -31,7 +31,7 @@ Ingesta de transcripciones y metadata de videos de canales de youtube (Cada 3 ho
 
 ## [Modelamiento](modelamiento)
 
-Exploracion de modelos de ML para hacer agrupacion de embeddings con el objetivo agregar metadata de topicos y filtar textos (chunks) no relevantes para el almacenamiento en base de datos vectorial.
+Exploracion de modelos de ML para hacer agrupacion de embeddings con el objetivo agregar metadata de topicos y filtar textos (chunks) no relevantes para el almacenamiento en base de datos vectorial. [ver dataset](https://huggingface.co/datasets/AndresR2909/youtube_transcripcions_embeddigns)
 
 ![Modelamiento](diagrama_resumenes_llm_cluster.jpg)
 
@@ -42,7 +42,7 @@ Exploracion de modelos de ML para hacer agrupacion de embeddings con el objetivo
 
 ## [Procesamiento_datos_almacenamiento_y_recuperacion_texto](Procesamiento_datos_almacenamiento_y_recuperacion_texto)
 
-Procesamiento de documentos, generacion de chunks, embbedings y almacenamiento en base de datos vectorial.
+Procesamiento de documentos, generacion de chunks, embbedings y almacenamiento en base de datos vectorial. [ver dataset](https://huggingface.co/datasets/AndresR2909/youtube_transcripcions_embeddigns)
 
 ![Procesamiento de Datos, Almacenamiento de Texto](proyecto_1_arquiectura_vdb.jpg)
 
