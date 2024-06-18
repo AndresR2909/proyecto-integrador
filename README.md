@@ -19,7 +19,7 @@ Envio de resumenes a whatsapp [ir](aplicacion).
 
 ![Aplicacion](resumen_whatsapp.png)
 
-Tablas de resumenes de videos y resumenes generales de todos los videos por dia (Map reduce). [ver tablas]()
+Tablas de resumenes de videos [ver tabla resumen videos](data/VideoSummaryTable.csv) y resumenes generales de todos los videos por dia (Map reduce). [ver tabla resumen diario](data/GeneralSummaryTable.csv)
 
 
 ## [Ingesta_datos](ingesta_datos)
