@@ -22,7 +22,7 @@ Envio de resumenes a whatsapp [ir](aplicacion).
 
 ## [Ingesta_datos](ingesta_datos)
 
-Ingesta de transcripciones y metadata de videos de canales de youtube (Cada 3 horas)
+Ingesta de transcripciones y metadata de videos de canales de youtube (Cada 3 horas). [Ver dataset](AndresR2909/youtube_transcriptions_ingest)
 
 ![Ingesta de Datos](ingesta_1.png)
 
