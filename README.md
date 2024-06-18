@@ -42,7 +42,7 @@ Exploracion de modelos de ML para hacer agrupacion de embeddings con el objetivo
 * Clustering: Kmeans, Dbscan, Hdbscan
 
 
-## [Procesamiento_datos_almacenamiento_y_recuperacion_texto](Procesamiento_datos_almacenamiento_y_recuperacion_texto)
+## [Procesamiento_datos_almacenamiento_y_recuperacion_texto](procesamiento_datos_almacenamiento_recuperacion_texto)
 
 Procesamiento de documentos, generacion de chunks, embbedings y almacenamiento en base de datos vectorial. [ver dataset](https://huggingface.co/datasets/AndresR2909/youtube_transcripcions_vector_data_base)
 
